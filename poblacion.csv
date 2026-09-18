@@ -1,0 +1,530 @@
+id,distrito,provincia,poblacion
+1058,La Matanza,Buenos Aires,1841247
+1233,Capital,Córdoba,1505250
+1431,Rosario,Santa Fe,1348725
+1559,La Plata,Buenos Aires,768547
+1528,Lomas de Zamora,Buenos Aires,690480
+1064,General Pueyrredón,Buenos Aires,667082
+1373,Quilmes,Buenos Aires,633391
+1412,Capital,Salta,627704
+1369,Capital,Tucumán,590342
+1296,Almirante Brown,Buenos Aires,584827
+1330,Merlo,Buenos Aires,582486
+1057,Moreno,Buenos Aires,576632
+1494,La Capital,Santa Fe,572265
+1364,Florencio Varela,Buenos Aires,496433
+1213,Confluencia,Neuquén,468794
+1527,Lanús,Buenos Aires,461267
+1352,General San Martín,Buenos Aires,450518
+1278,Tigre,Buenos Aires,446949
+1444,Capital,Corrientes,439270
+1524,San Fernando,Chaco,416140
+1344,Pilar,Buenos Aires,394754
+1464,Capital,Misiones,392919
+1048,Paraná,Entre Ríos,391696
+1242,General Roca,Río Negro,380525
+1529,Avellaneda,Buenos Aires,367554
+1363,Tres de Febrero,Buenos Aires,364176
+1078,Berazategui,Buenos Aires,358712
+1349,Malvinas Argentinas,Buenos Aires,350674
+1332,Esteban Echeverría,Buenos Aires,338480
+1062,Bahía Blanca,Buenos Aires,336557
+1308,Morón,Buenos Aires,331183
+1288,Capital,Santiago del Estero,330112
+1342,San Miguel,Buenos Aires,328835
+1053,José C. Paz,Buenos Aires,326992
+1410,Guaymallén,Mendoza,321966
+1336,Dr. Manuel Belgrano,Jujuy,320990
+1356,San Isidro,Buenos Aires,297282
+1438,Colón,Córdoba,295725
+1071,Vicente López,Buenos Aires,282280
+1138,Río Cuarto,Córdoba,279923
+1449,Formosa,Formosa,269589
+1261,Comuna 13,Ciudad Autónoma de Buenos Aires,264385
+1036,Juan Martín de Pueyrredón,San Luis,261697
+1052,Escobar,Buenos Aires,256268
+1289,Comuna 14,Ciudad Autónoma de Buenos Aires,248635
+1179,Comuna 12,Ciudad Autónoma de Buenos Aires,236887
+1266,Las Heras,Mendoza,234401
+1134,San Justo,Córdoba,230339
+1176,Comuna 4,Ciudad Autónoma de Buenos Aires,229240
+1272,Cruz Alta,Tucumán,228077
+1175,Comuna 1,Ciudad Autónoma de Buenos Aires,223554
+1076,Punilla,Córdoba,221273
+1416,Maipú,Mendoza,219402
+1182,Comuna 7,Ciudad Autónoma de Buenos Aires,215896
+1452,Escalante,Chubut,215453
+1164,San Rafael,Mendoza,215020
+1239,Capital,La Rioja,211651
+1188,Comuna 11,Ciudad Autónoma de Buenos Aires,204601
+1249,Comuna 8,Ciudad Autónoma de Buenos Aires,204367
+1126,Comuna 6,Ciudad Autónoma de Buenos Aires,203043
+1425,General López,Santa Fe,201574
+1331,Ezeiza,Buenos Aires,201511
+1041,Concordia,Entre Ríos,198802
+1170,General Obligado,Santa Fe,197986
+1535,Comuna 15,Ciudad Autónoma de Buenos Aires,196876
+1276,Comuna 3,Ciudad Autónoma de Buenos Aires,196240
+1287,Godoy Cruz,Mendoza,195159
+1432,San Lorenzo,Santa Fe,194580
+1178,Comuna 5,Ciudad Autónoma de Buenos Aires,194271
+1499,Castellanos,Santa Fe,190577
+1386,Capital,Catamarca,186947
+1346,Hurlingham,Buenos Aires,185641
+1360,Ituzaingó,Buenos Aires,180232
+1480,General José de San Martín,Salta,178004
+1246,Luján de Cuyo,Mendoza,175056
+1186,Comuna 10,Ciudad Autónoma de Buenos Aires,173004
+1382,Tafí Viejo,Tucumán,172986
+1557,San Fernando,Buenos Aires,171616
+1262,Banda,Santiago del Estero,170651
+1469,Comuna 9,Ciudad Autónoma de Buenos Aires,169063
+1403,San Nicolás,Buenos Aires,168041
+1180,Bariloche,Río Negro,162088
+1243,Comuna 2,Ciudad Autónoma de Buenos Aires,161645
+1192,Orán,Salta,160642
+1455,General San Martín,Córdoba,154269
+1033,General Pedernera,San Luis,148875
+1103,Rawson,Chubut,145763
+1059,Tandil,Buenos Aires,145575
+1130,Santa María,Córdoba,144829
+1361,General Rodríguez,Buenos Aires,142709
+1420,San Martín,Mendoza,139792
+1244,Güer Aike,Santa Cruz,137895
+1544,Rawson,San Juan,136617
+1401,Zárate,Buenos Aires,132221
+1286,Capital,Mendoza,127160
+1250,Deseado,Santa Cruz,126743
+1043,Gualeguaychú,Entre Ríos,126147
+1329,Olavarría,Buenos Aires,125751
+1123,El Carmen,Jujuy,122366
+1497,Oberá,Misiones,121701
+1136,Tercero Arriba,Córdoba,120918
+1421,Capital,La Pampa,119632
+1047,Uruguay,Entre Ríos,116356
+1220,Las Colonias,Santa Fe,115740
+1533,Capital,San Juan,115390
+1211,Pergamino,Buenos Aires,115340
+1135,Unión,Córdoba,114571
+1133,Río Segundo,Córdoba,113950
+1345,Luján,Buenos Aires,111251
+1124,Campana,Buenos Aires,110566
+1294,Marcos Juárez,Córdoba,107764
+1512,Goya,Corrientes,106371
+1545,Chimbas,San Juan,105627
+1312,Junín,Buenos Aires,103787
+1347,Biedma,Chubut,103173
+1379,Yerba Buena,Tucumán,102741
+1115,Necochea,Buenos Aires,102110
+1307,Presidente Perón,Buenos Aires,102106
+1532,Comandante Fernández,Chaco,101960
+1534,Rivadavia,San Juan,101666
+1399,Berisso,Buenos Aires,100930
+1069,La Costa,Buenos Aires,100689
+1495,Iguazú,Misiones,100096
+1260,Río Grande,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",99241
+1370,San Vicente,Buenos Aires,98215
+1450,Pilcomayo,Formosa,94383
+1483,Ledesma,Jujuy,94252
+1378,Lules,Tucumán,93552
+1428,Constitución,Santa Fe,93441
+1492,Chicligasta,Tucumán,92608
+1128,Eldorado,Misiones,91728
+1200,San Pedro,Jujuy,88241
+1435,San Jerónimo,Santa Fe,87307
+1430,Caseros,Santa Fe,86912
+1202,Patiño,Formosa,81819
+1555,Ushuaia,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",80371
+1300,Federación,Entre Ríos,78691
+1273,Monteros,Tucumán,77551
+1474,Guaraní,Misiones,77160
+1462,Calamuchita,Córdoba,75911
+1390,Azul,Buenos Aires,75905
+1301,La Paz,Entre Ríos,75407
+1290,Colón,Entre Ríos,75305
+1433,Iriondo,Santa Fe,74504
+1343,Mercedes,Buenos Aires,72980
+1549,Pocito,San Juan,72915
+1142,Pirané,Formosa,72804
+1222,San Cristóbal,Santa Fe,72801
+1518,Santo Tomé,Corrientes,71927
+1316,Chivilcoy,Buenos Aires,70839
+1366,Cañuelas,Buenos Aires,70684
+1165,Anta,Salta,70170
+1223,Maracó,La Pampa,69514
+1411,Juárez Celman,Córdoba,68631
+1478,San Pedro,Buenos Aires,68613
+1143,General Güemes,Chaco,68525
+1493,San Martín,Santa Fe,67827
+1476,Coronel de Marina Leonardo Rosales,Buenos Aires,67503
+1075,Cruz del Eje,Córdoba,67112
+1320,Marcos Paz,Buenos Aires,67011
+1237,Río Hondo,Santiago del Estero,66761
+1359,Leales,Tucumán,66392
+1458,Libertador General San Martín,Chaco,65686
+1194,Palpalá,Jujuy,65541
+1490,Río Chico,Tucumán,64962
+1177,Adolfo Alsina,Río Negro,64482
+1354,Ensenada,Buenos Aires,63997
+1104,Rivadavia,Mendoza,63724
+1498,San Ignacio,Misiones,63394
+1456,San Javier,Córdoba,63377
+1543,Santa Lucía,San Juan,62729
+1113,Tres Arroyos,Buenos Aires,62426
+1245,Tunuyán,Mendoza,60171
+1217,Mayor Luis J. Fontana,Chaco,59965
+1468,Cainguás,Misiones,59953
+1429,Chilecito,La Rioja,58798
+1422,Río Primero,Córdoba,58428
+1299,Gualeguay,Entre Ríos,57303
+1511,Paso de los Libres,Corrientes,56989
+1079,General Güemes,Salta,56166
+1171,Vera,Santa Fe,56027
+1137,Cerrillos,Salta,55949
+1291,Villaguay,Entre Ríos,55796
+1280,Robles,Santiago del Estero,54015
+1046,Diamante,Entre Ríos,53595
+1309,Chacabuco,Buenos Aires,52729
+1323,9 de Julio,Buenos Aires,52607
+1162,General Alvear,Mendoza,52584
+1472,Libertador General San Martín,Misiones,52428
+1553,Curuzú Cuatiá,Corrientes,51532
+1482,Rosario de Lerma,Salta,51028
+1522,Apóstoles,Misiones,50597
+1247,Futaleufú,Chubut,50316
+1560,Mercedes,Corrientes,49882
+1283,Leandro N. Alem,Misiones,49797
+1325,Trenque Lauquen,Buenos Aires,49499
+1380,Balcarce,Buenos Aires,48982
+1434,Belgrano,Santa Fe,48781
+1097,Metán,Salta,48245
+1267,Lavalle,Mendoza,47167
+1221,San Justo,Santa Fe,46665
+1423,Junín,Mendoza,46604
+1086,General Taboada,Santiago del Estero,46508
+1318,Bragado,Buenos Aires,46504
+1167,Zapala,Neuquén,45698
+1109,Monte Caseros,Corrientes,45670
+1473,General Manuel Belgrano,Misiones,45570
+1063,General Alvarado,Buenos Aires,45526
+1353,Lincoln,Buenos Aires,45506
+1383,Burruyacú,Tucumán,45476
+1324,Pehuajó,Buenos Aires,44783
+1517,Bella Vista,Corrientes,44406
+1536,Caucete,San Juan,44047
+1092,Choya,Santiago del Estero,43736
+1297,Nogoyá,Entre Ríos,43195
+1368,Famaillá,Tucumán,42702
+1121,Chascomús,Buenos Aires,42452
+1132,San Alberto,Córdoba,42166
+1060,Coronel Suárez,Buenos Aires,42110
+1371,Lobos,Buenos Aires,41760
+1241,Avellaneda,Río Negro,41352
+1139,Tupungato,Mendoza,41280
+1045,Victoria,Entre Ríos,40652
+1367,Moreno,Santiago del Estero,40460
+1513,Lavalle,Corrientes,40448
+1032,Junín,San Luis,40361
+1341,Exaltación de la Cruz,Buenos Aires,40159
+1477,Baradero,Buenos Aires,40002
+1234,San Carlos,Mendoza,39869
+1402,Ramallo,Buenos Aires,39730
+1212,Lácar,Neuquén,39596
+1067,Pinamar,Buenos Aires,39449
+1340,Salto,Buenos Aires,39425
+1110,Esquina,Corrientes,39185
+1419,Ituzaingó,Corrientes,38837
+1088,Montecarlo,Misiones,38669
+1481,Rivadavia,Salta,38113
+1268,Almirante Brown,Chaco,37851
+1173,Presidente Roque Sáenz Peña,Córdoba,37726
+1467,Patagones,Buenos Aires,37646
+1376,Bolívar,Buenos Aires,37594
+1066,Villa Gesell,Buenos Aires,37463
+1491,Simoca,Tucumán,36973
+1161,General Roca,Córdoba,36242
+1453,Ischilín,Córdoba,36074
+1127,San Antonio,Río Negro,35800
+1225,Copo,Santiago del Estero,35741
+1049,Saladillo,Buenos Aires,35656
+1322,25 de Mayo,Buenos Aires,35563
+1465,Candelaria,Misiones,35318
+1156,General Villegas,Buenos Aires,35251
+1129,San Pedro,Misiones,34801
+1489,Juan Bautista Alberdi,Tucumán,34766
+1377,Chacabuco,Chaco,34598
+1305,Valle Viejo,Catamarca,34029
+1269,Rosario de la Frontera,Salta,33809
+1169,San Javier,Santa Fe,33274
+1065,Mar Chiquita,Buenos Aires,33110
+1530,25 de Mayo,Chaco,32793
+1153,Villarino,Buenos Aires,32717
+1235,Malargüe,Mendoza,32717
+1209,Quitilipi,Chaco,32642
+1310,Brandsen,Buenos Aires,32448
+1333,Arrecifes,Buenos Aires,32215
+1389,Dolores,Buenos Aires,32032
+1298,Tala,Entre Ríos,31309
+1547,Albardón,San Juan,31284
+1146,9 de Julio,Santa Fe,30995
+1496,25 de Mayo,Misiones,30891
+1303,Belén,Catamarca,30569
+1274,9 de Julio,Chaco,30258
+1228,Pehuenches,Neuquén,29753
+1042,Federal,Entre Ríos,29667
+1519,Saladas,Corrientes,29198
+1231,Cushamen,Chubut,28209
+1461,Bermejo,Chaco,28144
+1358,Colón,Buenos Aires,27504
+1050,Las Flores,Buenos Aires,27239
+1538,Sarmiento,San Juan,27188
+1279,Santa María,Catamarca,26929
+1054,San Antonio de Areco,Buenos Aires,26897
+1070,Magdalena,Buenos Aires,26613
+1037,Chacabuco,San Luis,26557
+1311,San Andrés de Giles,Buenos Aires,26510
+1216,Maipú,Chaco,26416
+1271,La Paz,Catamarca,26370
+1516,Concepción,Corrientes,26282
+1405,Pellegrini,Santiago del Estero,26193
+1198,Yavi,Jujuy,25868
+1051,Rojas,Buenos Aires,25627
+1264,Lago Argentino,Santa Cruz,25586
+1406,Avellaneda,Santiago del Estero,25476
+1409,Tinogasta,Catamarca,25395
+1541,Jáchal,San Juan,25297
+1500,Garay,Santa Fe,24927
+1327,Monte,Buenos Aires,24868
+1094,Chicoana,Salta,24729
+1107,Coronel Pringles,Buenos Aires,24420
+1284,Loreto,Santiago del Estero,24060
+1034,Ayacucho,San Luis,23913
+1505,San Javier,Misiones,23503
+1384,Trancas,Tucumán,23494
+1089,12 de Octubre,Chaco,23222
+1314,Carlos Casares,Buenos Aires,23100
+1514,San Roque,Corrientes,22715
+1281,General Viamonte,Buenos Aires,22649
+1083,General Juan Madariaga,Buenos Aires,22624
+1454,Totoral,Córdoba,22495
+1385,Tafí del Valle,Tucumán,22440
+1396,Saavedra,Buenos Aires,22347
+1357,Benito Juárez,Buenos Aires,22292
+1154,Independencia,Chaco,21996
+1351,Ayacucho,Buenos Aires,21977
+1056,O'Higgins,Chaco,21579
+1445,San Luis del Palmar,Corrientes,21459
+1487,La Cocha,Tucumán,21218
+1181,Huiliches,Neuquén,20973
+1484,Humahuaca,Jujuy,20914
+1293,San Salvador,Entre Ríos,20854
+1537,25 de Mayo,San Juan,20824
+1326,General Belgrano,Buenos Aires,20791
+1085,Juan Felipe Ibarra,Santiago del Estero,20589
+1552,Santa Bárbara,Jujuy,20499
+1395,Figueroa,Santiago del Estero,20270
+1084,Alberdi,Santiago del Estero,20104
+1365,Navarro,Buenos Aires,19899
+1392,Capayán,Catamarca,19885
+1466,Rivadavia,Buenos Aires,19849
+1446,San Cosme,Corrientes,19706
+1393,Andalgalá,Catamarca,19678
+1100,Santa Rosa,Mendoza,19382
+1141,Laishi,Formosa,19303
+1140,Pilagás,Formosa,19116
+1187,Sargento Cabral,Chaco,18793
+1475,Jiménez,Santiago del Estero,18625
+1391,Daireaux,Buenos Aires,18422
+1230,Chos Malal,Neuquén,18368
+1398,Lobería,Buenos Aires,18243
+1158,Añelo,Neuquén,18166
+1504,Toay,La Pampa,18029
+1319,General Las Heras,Buenos Aires,18022
+1440,Empedrado,Corrientes,17968
+1304,Cafayate,Salta,17829
+1508,Utracán,La Pampa,17802
+1338,Ramón Lista,Formosa,17729
+1152,Adolfo Alsina,Buenos Aires,17552
+1339,Carmen de Areco,Buenos Aires,17499
+1215,Realicó,La Pampa,17470
+1457,Leandro N. Alem,Buenos Aires,17266
+1190,Matacos,Formosa,17032
+1506,General Paz,Corrientes,17020
+1302,Feliciano,Entre Ríos,16803
+1149,25 de Mayo,Río Negro,16718
+1096,Rauch,Buenos Aires,16635
+1172,Puán,Buenos Aires,16613
+1087,Pichi Mahuida,Río Negro,16551
+1460,General Arenales,Buenos Aires,16350
+1119,Arauco,La Rioja,16257
+1275,San Lorenzo,Chaco,16062
+1040,Coronel Pringles,San Luis,16049
+1114,Coronel Dorrego,Buenos Aires,15968
+1334,Capitán Sarmiento,Buenos Aires,15965
+1439,Rosario Vera Peñaloza,La Rioja,15783
+1108,Chamical,La Rioja,15666
+1203,Bermejo,Formosa,15644
+1147,Los Lagos,Neuquén,15555
+1488,Graneros,Tucumán,15540
+1240,Río Seco,Córdoba,15302
+1510,San Martín,Corrientes,15187
+1418,Conhelo,La Pampa,15186
+1118,Corpen Aike,Santa Cruz,15171
+1091,Ojo de Agua,Santiago del Estero,15116
+1525,General Donovan,Chaco,15096
+1255,Cochinoca,Jujuy,15054
+1558,San Martín,San Juan,15037
+1471,Atamisqui,Santiago del Estero,14903
+1105,Tornquist,Buenos Aires,14810
+1193,Tilcara,Jujuy,14721
+1348,Fray Mamerto Esquiú,Catamarca,14625
+1174,Sarmiento,Chubut,14596
+1035,Gobernador Dupuy,San Luis,14343
+1523,1° de Mayo,Chaco,14279
+1081,General Paz,Buenos Aires,14207
+1074,Tulumba,Córdoba,14134
+1321,Carlos Tejedor,Buenos Aires,14079
+1044,Islas del Ibicuy,Entre Ríos,14000
+1328,Roque Pérez,Buenos Aires,13977
+1210,Presidencia de la Plaza,Chaco,13956
+1531,Libertad,Chaco,13807
+1295,Santa Rosa,Catamarca,13322
+1317,Alberti,Buenos Aires,12982
+1111,General Pinto,Buenos Aires,12941
+1061,Adolfo Gonzales Chaves,Buenos Aires,12914
+1117,Magallanes,Santa Cruz,12911
+1507,General Belgrano,Chaco,12807
+1404,Salavina,Santiago del Estero,12787
+1436,San Miguel,Corrientes,12713
+1102,Gaiman,Chubut,12639
+1372,General Alvear,Buenos Aires,12631
+1232,Lago Buenos Aires,Santa Cruz,12606
+1546,9 de Julio,San Juan,12514
+1208,Quebrachos,Santiago del Estero,12354
+1185,Chapaleufú,La Pampa,12334
+1163,La Caldera,Salta,12299
+1122,Punta Indio,Buenos Aires,12297
+1388,Pomán,Catamarca,12260
+1106,La Paz,Mendoza,12086
+1447,Itatí,Corrientes,12010
+1197,San Martín,Santiago del Estero,11848
+1254,Guaminí,Buenos Aires,11801
+1362,Suipacha,Buenos Aires,11786
+1205,Puelén,La Pampa,11654
+1355,Laprida,Buenos Aires,11646
+1375,General La Madrid,Buenos Aires,11618
+1520,Mburucuyá,Corrientes,11568
+1315,General Felipe Varela,La Rioja,11372
+1055,Maipú,Buenos Aires,11323
+1502,Atreucó,La Pampa,11138
+1415,Rancul,La Pampa,11133
+1539,Calingasta,San Juan,11034
+1252,Belgrano,Santiago del Estero,10813
+1485,Florentino Ameghino,Buenos Aires,10790
+1335,Tapalqué,Buenos Aires,10783
+1381,Hipólito Yrigoyen,Buenos Aires,10661
+1218,Fray Justo Santa María de Oro,Chaco,10653
+1509,Sauce,Corrientes,10382
+1521,Concepción,Misiones,10348
+1168,Aluminé,Neuquén,10244
+1548,Angaco,San Juan,10176
+1413,Silípica,Santiago del Estero,9766
+1292,Castelli,Buenos Aires,9594
+1503,Guatraché,La Pampa,9517
+1077,Salliqueló,Buenos Aires,9427
+1479,Santa Victoria,Salta,9413
+1151,Pilcaniyeu,Río Negro,9373
+1189,Loventué,La Pampa,9322
+1229,Minas,Neuquén,9267
+1256,Guasayán,Santiago del Estero,9255
+1350,Tres Lomas,Buenos Aires,9164
+1515,General Alvear,Corrientes,9145
+1112,San Cayetano,Buenos Aires,8994
+1253,Aguirre,Santiago del Estero,8970
+1093,Cachi,Salta,8948
+1095,La Viña,Salta,8900
+1540,Iglesia,San Juan,8845
+1542,Valle Fértil,San Juan,8526
+1214,Picunches,Neuquén,8495
+1397,Monte Hermoso,Buenos Aires,8465
+1501,Quemú Quemú,La Pampa,8460
+1526,2 de Abril,Chaco,8319
+1306,Catriló,La Pampa,8235
+1080,San Carlos,Salta,7798
+1159,Hucal,La Pampa,7787
+1226,Loncopué,Neuquén,7698
+1219,General Belgrano,La Rioja,7618
+1101,Conesa,Río Negro,7429
+1099,General Ortiz de Ocampo,La Rioja,7349
+1414,La Candelaria,Salta,7205
+1191,Los Andes,Salta,7182
+1160,Pellegrini,Buenos Aires,7143
+1277,Famatina,La Rioja,7002
+1265,El Cuy,Río Negro,6960
+1443,San Antonio,Jujuy,6729
+1550,Zonda,San Juan,6683
+1551,Ullum,San Juan,6454
+1155,Río Senguer,Chubut,6366
+1248,Río Chico,Santa Cruz,6314
+1120,Lezama,Buenos Aires,6221
+1184,Iruya,Salta,6118
+1463,Tolhuin,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",6039
+1451,Tehuelches,Chubut,5978
+1098,Molinos,Salta,5820
+1424,Castro Barros,La Rioja,5810
+1224,Trenel,La Pampa,5702
+1227,Ñorquín,Neuquén,5609
+1039,Belgrano,San Luis,5583
+1313,Tumbaya,Jujuy,5381
+1090,Rivadavia,Santiago del Estero,5315
+1394,Ambato,Catamarca,5129
+1554,Pocho,Córdoba,5123
+1166,Picún Leufú,Neuquén,5087
+1258,Sarmiento,Santiago del Estero,5038
+1441,General San Martín,La Rioja,5019
+1131,Minas,Córdoba,4870
+1068,General Lavalle,Buenos Aires,4870
+1270,Collón Curá,Neuquén,4835
+1407,Paclín,Catamarca,4725
+1038,Libertador General San Martín,San Luis,4691
+1374,Pila,Buenos Aires,4642
+1259,Sobremonte,Córdoba,4503
+1408,El Alto,Catamarca,4375
+1144,Valcheta,Río Negro,4319
+1442,San Blas de Los Sauces,La Rioja,4314
+1183,Susques,Jujuy,4098
+1196,Tapenagá,Chaco,4059
+1427,General Juan Facundo Quiroga,La Rioja,4017
+1145,9 de Julio,Río Negro,3719
+1417,Guachipas,Salta,3491
+1387,Ancasti,Catamarca,3302
+1437,Ángel Vicente Peñaloza,La Rioja,3185
+1082,General Guido,Buenos Aires,3174
+1426,Sanagasta,La Rioja,3038
+1206,Chalileo,La Pampa,2885
+1251,Languiñeo,Chubut,2884
+1448,Berón de Astrada,Corrientes,2826
+1238,Vinchina,La Rioja,2699
+1236,Catán Lil,Neuquén,2676
+1199,Santa Catalina,Jujuy,2646
+1195,Caleu Caleu,La Pampa,2611
+1400,Tordillo,Buenos Aires,2542
+1201,Valle Grande,Jujuy,2509
+1116,Independencia,La Rioja,2401
+1282,Antofagasta de la Sierra,Catamarca,2022
+1263,Paso de Indios,Chubut,1886
+1125,General Lamadrid,La Rioja,1886
+1337,Rinconada,Jujuy,1802
+1285,La Poma,Salta,1789
+1486,Florentino Ameghino,Chubut,1786
+1150,Telsen,Chubut,1623
+1207,Chical Co,La Pampa,1466
+1148,Ñorquinco,Río Negro,1452
+1470,Mitre,Santiago del Estero,1440
+1459,Gastre,Chubut,1195
+1072,Curacó,La Pampa,1116
+1257,Mártires,Chubut,754
+1157,Lihuel Calel,La Pampa,443
+1204,Limay Mahuida,La Pampa,423
+1073,Antártida Argentina,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",81
+1556,Islas del Atlántico Sur,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",0
